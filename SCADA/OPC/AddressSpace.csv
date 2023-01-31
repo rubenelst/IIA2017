@@ -1,0 +1,11 @@
+Tag Name,Data Type,AccessRights,Simulated
+PV,IO_Double,RW,FALSE
+SP,IO_Double,RW,FALSE
+u,IO_Double,RW,FALSE
+Kp,IO_Double,RW,FALSE
+Ti,IO_Double,RW,FALSE
+d,IO_Double,RW,FALSE
+z,IO_Double,RW,FALSE
+Tag11,IO_UInt16,R,TRUE
+Tag12,IO_UInt32,R,TRUE
+Tag13,IO_UInt64,R,TRUE
